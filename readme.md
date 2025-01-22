@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">**Aspiring Full Stack Developer | Data Scientist**  <br>Universidade do Estado do Pará (UEPA)  <br>Brazil 🇧🇷</p>
+<p align="center"><hr>Aspiring Full Stack Developer | Data Scientist<hr>  <br>Universidade do Estado do Pará (UEPA)  <br>Brazil 🇧🇷</p>
 
 ###
 
