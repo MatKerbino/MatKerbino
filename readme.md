@@ -55,6 +55,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatKerbino&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=buefy&locale=en&hide_border=true&order=1" height="120" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatKerbino&radius=16&theme=vue&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65c6b53fd789a518cf1e4494?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 ###
